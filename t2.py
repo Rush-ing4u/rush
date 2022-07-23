@@ -1,0 +1,23 @@
+#DECAGON 
+from turtle import* 
+forward(50)
+left(36)
+forward(50)
+left(36)
+forward(50)
+left(36)
+forward(50)
+left(36)
+forward(50)
+left(36)
+forward(50)
+left(36)
+forward(50)
+left(36)
+forward(50)
+left(36)
+forward(50)
+left(36)
+forward(50)
+
+mainloop()
