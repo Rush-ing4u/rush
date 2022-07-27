@@ -2,7 +2,7 @@ from turtle import*
 speed(0)
 pencolor('red')
 pensize(5)
-fillcolor('pink')
+fillcolor('red')
 begin_fill()
 right(60)
 forward(111.65)
