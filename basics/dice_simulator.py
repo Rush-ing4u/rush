@@ -2,7 +2,7 @@ from random import randint
 win_count = 0
 lose_count = 0
 
-dice = ['1','2','3','4','5','6'] # 0,1,2,3,4,5=1,2,3,4,5,6
+dice = ['1','2','3','4','5','6'] # (indexing) 0,1,2,3,4,5=1,2,3,4,5,6
 while True: #infinte loop 
     print("Press enter to Roll Dice")
     out = randint(0,5)
@@ -16,4 +16,4 @@ while True: #infinte loop
         break
     elif lose_count == 3:
         print("You lose 🤢")
-        break
+        break 
