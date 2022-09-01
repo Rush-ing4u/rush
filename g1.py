@@ -1,6 +1,6 @@
 import pgzrun
 
-HEIGHT = 500
+HEIGHT = 600
 WIDTH = 600
 
 p = Actor('ironman.png', pos = (100,100))
@@ -13,3 +13,4 @@ def draw():
 
 # outside functions
 pgzrun.go()
+ 
