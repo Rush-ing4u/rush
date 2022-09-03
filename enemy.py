@@ -14,7 +14,7 @@ c.y =  randint(4, HEIGHT-4)
 
 score = 0
 speed = 3
-time = 120
+time = 120   #seconds
 
 def draw():
     screen.clear()
